@@ -1,0 +1,5 @@
+time,event,total_count
+12:31:33,line_crossed,1
+12:31:42,line_crossed,2
+12:31:43,line_crossed,3
+12:31:43,line_crossed,4
