@@ -34,5 +34,9 @@ python smart_cctv_main.py
 ```bash
 pip install -r requirements.txt
 Added usage instructions to README
+## Use Cases
+- Retail store monitoring
+- Customer behavior analysis
+- Smart surveillance systems
 ## Author
 Manasa Kundanapally
