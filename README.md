@@ -28,3 +28,8 @@ python smart_cctv_main.py
 - Face detection
 - Entry and exit tracking
 - Analytics dashboard
+## How to Run the Project
+
+1. Install required libraries:
+```bash
+pip install -r requirements.txt
