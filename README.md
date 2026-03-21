@@ -47,5 +47,17 @@ Added usage instructions to README
 - CSV-based logging for analytics
 - Modular Python scripts for scalability
 ![Project Output](screenshot.png)
+## Example Output
+
+When running the system, the console and screen display:
+
+- People detected in real time
+- Customers entered count
+- Time spent in frame
+
+Example:
+People: 1  
+Entered: 3  
+Time: 5s
 ## Author
 Manasa Kundanapally
