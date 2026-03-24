@@ -55,6 +55,15 @@ When running the system, the console and screen display:
 - Customers entered count
 - Time spent in frame
 
+## How It Works
+
+1. Captures live video from webcam  
+2. Detects people using OpenCV HOG detector  
+3. Draws bounding boxes around detected persons  
+4. Tracks movement and counts entries using line crossing  
+5. Displays real-time data (People count, Entry count, Time)  
+6. Logs data into CSV files for analysis
+
 Example:
 People: 1  
 Entered: 3  
