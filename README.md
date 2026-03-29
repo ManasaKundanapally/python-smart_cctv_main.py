@@ -64,6 +64,13 @@ When running the system, the console and screen display:
 5. Displays real-time data (People count, Entry count, Time)  
 6. Logs data into CSV files for analysis
 
+## Tech Stack
+
+- Python
+- OpenCV
+- NumPy
+- CSV (for data logging)
+
 Example:
 People: 1  
 Entered: 3  
