@@ -74,6 +74,11 @@ When running the system, the console and screen display:
 ## Version
 Current Version: v1.0
 
+## Project Version
+
+Current Version: v1.0  
+Status: Completed basic functionality
+
 Example:
 People: 1  
 Entered: 3  
