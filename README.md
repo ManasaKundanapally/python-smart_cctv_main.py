@@ -88,6 +88,13 @@ Status: Completed basic functionality
 - line_counter.py → Line crossing logic
 - data_logger.py → Logs data
 
+## Applications
+
+- Retail store customer tracking  
+- Smart surveillance systems  
+- Crowd monitoring  
+- Entry/exit analytics  
+
 Example:
 People: 1  
 Entered: 3  
